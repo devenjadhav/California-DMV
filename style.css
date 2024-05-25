@@ -1,0 +1,9 @@
+body {
+  background-color: #3e84c0;
+}
+
+p,
+i {
+  color: white;
+  font-size: large;
+}
